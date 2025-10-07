@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "875243683289",
+    "project_id": "ieapp-e0a18",
+    "storage_bucket": "ieapp-e0a18.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875243683289:android:57f568515adc387cddedc8",
+        "android_client_info": {
+          "package_name": "income.expense.accountingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4XxBjGWq8oMUhFrY0VA8pR-WmcHr8tkw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
